@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Create a project delete some files before start the coding from public folder after create a project fevicon.ico , logo192.png ,logo512.png , manifest.json and robots.txt. delete files from public folder .
+
+# From Api integerate you need to install npm i openai@3.3.0 from terminal once api pacakage you should buy API from your credit card for platform.openai.com/account/billing/overview .
+
 ## Available Scripts
 
 In the project directory, you can run:
